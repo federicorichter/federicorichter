@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently finishing my studies as a Computers Engineer at Universidad Nacional de Córdoba 🇦🇷
+- 🌱 I’m currently learning about Real Time and Embedded Systems
+
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicorichter&show_icons=true&theme=blue-green)
