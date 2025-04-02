@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently finishing my studies as a Computers Engineer at Universidad Nacional de Córdoba 🇦🇷<br>🌱 I’m currently learning about Real Time and Embedded Systems
+🔭 I’m currently finishing my studies as a Computers Engineer at Universidad Nacional de Córdoba 🇦🇷<br>🌱 I’m currently learning about Backend Development and Real Time and Embedded Systems
 
 
 ## 🌐 Socials:
